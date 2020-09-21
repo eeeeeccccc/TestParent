@@ -1,5 +1,0 @@
-[submodule "TestSub"]
-	path = TestSub
-	url = https://github.com/eeeeeccccc/TestSub.git
-	branch = master
-	update = merge
